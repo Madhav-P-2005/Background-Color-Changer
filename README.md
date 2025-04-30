@@ -5,9 +5,9 @@ It's a great beginner-friendly project to understand **React Native basics**, **
 
 ---
 
-## 🎥 Preview
+##  Preview
 
-[![Watch the Demo](https://img.youtube.com/vi/IA85_PDykNY/0.jpg)](https://www.youtube.com/shorts/IA85_PDykNY)
+![Background Color Changer Demo](BgColorChanger/background_color_demo.gif)
 
 
 ---
