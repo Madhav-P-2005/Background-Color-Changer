@@ -7,7 +7,7 @@ It's a great beginner-friendly project to understand **React Native basics**, **
 
 ## 📱 Preview
 
-![Background Color Changer Demo](BgColorChanger/BgColor_Changer.gif)
+![Background Color Changer Demo](BgColorChanger/BgColor_Changer_Preview.gif)
 
 
 ---
